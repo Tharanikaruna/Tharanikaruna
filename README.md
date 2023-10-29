@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharanikaruna" alt="tharanikaruna" /></a> </p>
 
-- 🌱 I’m currently learning om Data Analysis **Data Analytics Bootcamp Program**
+- 🌱 I’m currently learning on Data Analysis **Data Analytics Bootcamp Program**
 
 - 📝 I regularly write articles on [Data Analyzation](Data Analyzation)
 
